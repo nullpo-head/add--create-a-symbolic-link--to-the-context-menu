@@ -9,3 +9,7 @@ Installation
 Download and unzip /bin/x64(x86)/symlinkoncontextmenu.zip,  run install.exe in it.
 
 You can uninstall this software "uninstall this menu" menu created on the context menu.
+
+Note
+------
+This is my first C/C++ program, so tell me whatever I need for better source code.　
